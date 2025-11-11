@@ -1,0 +1,6 @@
+[submodule "libGPULayers"]
+	path = libGPULayers
+	url = https://github.com/ARM-software/libGPULayers.git
+[submodule "external/libGPULayers"]
+	path = external/libGPULayers
+	url = https://github.com/ARM-software/libGPULayers.git
